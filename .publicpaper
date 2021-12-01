@@ -1,13 +1,13 @@
-- chain: polygon
-- authors:
+chain: polygon
+authors:
   - address: "0x695DFFA485c13ec8593fAa63F5b6B7D183bA4a3d"
     name: William Riancho
     email: william@publicpapers.org
     twitter: willrnch
-- paper:
-  - language: en
-  - file: paper.md
-  - keywords:
+paper:
+  language: en
+  file: paper.md
+  keywords:
     - blockchain
     - scientific research
     - technology
